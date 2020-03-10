@@ -76,6 +76,10 @@ img {
     background-color: rgba(255, 51, 255, 0.65)
 }
 
+.dot.red {
+    background-color: rgba(255, 00, 00, .65)
+}
+
 .dot .inner {
     width: 100%;
     height: 100%;
@@ -120,6 +124,11 @@ img {
 .dot.yuri {
     bottom: 47%;
     right: 90%;
+}
+
+.dot.quote {
+    bottom: 20%;
+    right: 14%;
 }
 
 /*****************************
