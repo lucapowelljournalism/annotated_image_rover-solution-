@@ -64,16 +64,16 @@ img {
     cursor: pointer;
 }
 
-.dot.orange {
-    background-color: rgba(255, 133, 25, 0.65)
+.dot.green {
+    background-color: rgba(72, 236, 79, 0.65)
 }
 
 .dot.blue {
-    background-color: rgba(0, 93, 255, 0.65)
+    background-color: rgba(153, 255, 255, 0.65)
 }
 
-.dot.green {
-    background-color: rgba(12, 232, 196, 0.65)
+.dot.pink {
+    background-color: rgba(255, 51, 255, 0.65)
 }
 
 .dot .inner {
@@ -107,19 +107,19 @@ img {
     content: "\f00d";
 }
 
-.dot.solar {
-    right: 10%;
-    bottom: 48%;
+.dot.MalcomX {
+    right: 22%;
+    bottom: 42%;
 }
 
-.dot.camera {
-    top: 18%;
-    left: 37%;
+.dot.blacklives {
+    top: 39%;
+    left: 43%;
 }
 
-.dot.wheels {
-    bottom: 19%;
-    right: 25%;
+.dot.yuri {
+    bottom: 47%;
+    right: 90%;
 }
 
 /*****************************
